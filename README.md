@@ -1,7 +1,7 @@
 # Data Science
-# This repository contains my Data Science learning journey including assignments, practice notebooks, projects, and notes.
+A collection of my Data Science assignments, practice notebooks, projects, and learning notes.
 
-## Topics Covered
+## Topics 
 - Python
 - NumPy
 - Pandas
