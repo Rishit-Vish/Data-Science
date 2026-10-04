@@ -1,13 +1,34 @@
 # Python
 
-This folder contains my Python learning and practice work as part of my Data Science journey.
+This folder contains my Python learning, practice, and project work as part of my Data Science journey.
 
 ## Structure
 
-* **Class/** — Topic-wise concepts and examples covered during classes.
-* **OOP/** — Object-Oriented Programming concepts and practice.
+```text
+Python/
+├── Class/
+├── OOPS/
+├── Practice/
+├── Power_Sessions/
+├── Python_Libraries/
+    ├── NumPy/
+    ├── Pandas/
+    ├── Matplotlib/
+    ├── Seaborn/
+    ├── Practice/
+    └── Projecs/
+
+
+```
+
+## Contents
+
+* **Class/** — Topic-wise Python concepts and examples covered during classes.
+* **OOPS/** — Object-Oriented Programming concepts and practice.
+* **Practice/** — Python problem-solving and practice questions.
 * **Power_Sessions/** — Advanced Python problems and exercises from power sessions.
-* **Practice/** — Problem-solving and practice questions covering different Python concepts.
+* **Python_Libraries/** — Learning and practice work with Python libraries used in Data Science.
+* **Projects/** — Projects built using Python libraries.
 
 ## Topics Covered
 
@@ -19,8 +40,10 @@ This folder contains my Python learning and practice work as part of my Data Sci
 * Functions
 * Lists, Tuples & Dictionaries
 * Strings
-* Object-Oriented Programming (OOPS)
+* Object-Oriented Programming
 * Problem Solving
-* Advanced Practice
+* Python Libraries
+* Data Science-related Python Practice
+* Projects
 
 This section will be updated as I continue learning and adding new work.
